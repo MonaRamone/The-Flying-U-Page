@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/neura-flow-kampagne/","title":"{{NeuraFlow Kampagne}}","tags":["flying-u-page","social-media","satire"],"dg-note-properties":{"title":"{{NeuraFlow Kampagne}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"SocialMedia","cluster":"Digital Fiction","tags":["flying-u-page","social-media","satire"],"status":"🟡 Review","progress":0.8,"medium":"Werbung / Kampagne","tone":"ästhetisch steril / algorithmisch hypnotisch","summary":"Corporate Spirituality für die Scroll-Generation.","quote":"Ihr innerer Schwerpunkt wartet.","modified":"2026-11-01T06:03:29+01:00"}}
+{"dg-publish":true,"permalink":"/neura-flow-kampagne/","title":"{{NeuraFlow Kampagne}}","tags":["flying-u-page","social-media","satire"],"dg-note-properties":{"title":"{{NeuraFlow Kampagne}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"SocialMedia","cluster":"Digital Fiction","tags":["flying-u-page","social-media","satire"],"status":"🟡 Review","progress":0.8,"medium":"Werbung / Kampagne","tone":"ästhetisch steril / algorithmisch hypnotisch","summary":"Corporate Spirituality für die Scroll-Generation.","quote":"Ihr innerer Schwerpunkt wartet.","modified":"2026-11-01T07:54:30+01:00"}}
 ---
-
-
 
 # ◉ NEURAFLOW  
 ### *Human Harmony. Powered by Precision.*

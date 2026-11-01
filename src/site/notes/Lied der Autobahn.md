@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/lied-der-autobahn/","title":"{{Lied der Autobahn}}","tags":["flying-u-page","doku","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Lied der Autobahn}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Doku","cluster":"Zeitgeist / Habitat","tags":["flying-u-page","doku","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Pseudo-Naturdokumentation","tone":"zoologisch-ironisch / dokumentarisch ernst","summary":"Eine Naturdoku über Menschen, die glauben, sie seien vernünftig.","quote":"Man erkennt deutlich: das Männchen kommuniziert über wiederkehrende Lautmuster.","modified":"2026-11-01T06:03:13+01:00"}}
+{"dg-publish":true,"permalink":"/lied-der-autobahn/","title":"{{Lied der Autobahn}}","tags":["flying-u-page","doku","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Lied der Autobahn}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Doku","cluster":"Zeitgeist / Habitat","tags":["flying-u-page","doku","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Pseudo-Naturdokumentation","tone":"zoologisch-ironisch / dokumentarisch ernst","summary":"Eine Naturdoku über Menschen, die glauben, sie seien vernünftig.","quote":"Man erkennt deutlich: das Männchen kommuniziert über wiederkehrende Lautmuster.","modified":"2026-11-01T07:53:59+01:00"}}
 ---
-
-
 
 *(1952, neu vertont in Farbe)*
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/leben-laecheln-lieben/","title":"{{Leben. Lächeln. Lieben.}}","tags":["flying-u-page","reality-show","satire"],"dg-note-properties":{"title":"{{Leben. Lächeln. Lieben.}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Reality","cluster":"Modern Life","tags":["flying-u-page","reality-show","satire"],"status":"🟢 Final","progress":1,"medium":"Reality / Lifestyle","tone":"Überpositiv / ironisch gebrochen","summary":"Selbstoptimierung als Gebet. Zwischen Latte und Laptop entsteht das Ideal.","quote":"Ich sag ja immer: Kommunikation ist alles.","modified":"2026-11-01T06:03:25+01:00"}}
+{"dg-publish":true,"permalink":"/leben-laecheln-lieben/","title":"{{Leben. Lächeln. Lieben.}}","tags":["flying-u-page","reality-show","satire"],"dg-note-properties":{"title":"{{Leben. Lächeln. Lieben.}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Reality","cluster":"Modern Life","tags":["flying-u-page","reality-show","satire"],"status":"🟢 Final","progress":1,"medium":"Reality / Lifestyle","tone":"Überpositiv / ironisch gebrochen","summary":"Selbstoptimierung als Gebet. Zwischen Latte und Laptop entsteht das Ideal.","quote":"Ich sag ja immer: Kommunikation ist alles.","modified":"2026-11-01T07:53:40+01:00"}}
 ---
-
 
 ## Folge 1 – „Alles unter einem Hut"
 

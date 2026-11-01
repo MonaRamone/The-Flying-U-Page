@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/neura-flow-imagefilm/","title":"{{NeuraFlow-Imagefilm}}","tags":["flying-u-page","corporate","satire"],"dg-note-properties":{"title":"{{NeuraFlow-Imagefilm}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Corporate Imagefilm","cluster":"Digital Fiction","tags":["flying-u-page","corporate","satire"],"status":"🟡 Review","progress":0.7,"medium":"Imagefilm / Werbung","tone":"ästhetisch steril / unheimlich ruhig","summary":"Ein Hochglanzfilm, dessen Harmonie auf subtilem Kontrollversprechen basiert.","quote":"Leben soll nicht schwer sein. Lassen Sie es fließen.","modified":"2026-11-01T05:07:11+01:00"}}
+{"dg-publish":true,"permalink":"/neura-flow-imagefilm/","title":"{{NeuraFlow-Imagefilm}}","tags":["flying-u-page","corporate","satire"],"dg-note-properties":{"title":"{{NeuraFlow-Imagefilm}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Corporate Imagefilm","cluster":"Digital Fiction","tags":["flying-u-page","corporate","satire"],"status":"🟡 Review","progress":0.7,"medium":"Imagefilm / Werbung","tone":"ästhetisch steril / unheimlich ruhig","summary":"Ein Hochglanzfilm, dessen Harmonie auf subtilem Kontrollversprechen basiert.","quote":"Leben soll nicht schwer sein. Lassen Sie es fließen.","modified":"2026-11-01T07:54:21+01:00"}}
 ---
-
-
 
 *(Sanftes Atmen. Ein sphärischer Klang. Wasser spiegelt Licht. Das Bild ist zu schön, um wahr zu sein.)*
 

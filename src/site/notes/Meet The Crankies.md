@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/meet-the-crankies/","title":"{{Meet The Crankies}}","tags":["flying-u-page","muppetshow","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Meet The Crankies}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Misc","cluster":"Zeitgeist / Habitat","tags":["flying-u-page","muppetshow","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Bühnenstück / TV-Show","tone":"pointiert / doppelte Ironie / formell einfach","theme":"Mini-Theaterstück","summary":"Miniatur über Alterszynismus als Lebensform – und gleichzeitig eine Liebeserklärung an das Publikum, das sich selbst kommentiert.","quote":"Früher war alles besser. - Ja, sogar die Beschwerden darüber.","modified":"2026-11-01T05:07:36+01:00"}}
+{"dg-publish":true,"permalink":"/meet-the-crankies/","title":"{{Meet The Crankies}}","tags":["flying-u-page","muppetshow","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Meet The Crankies}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Misc","cluster":"Zeitgeist / Habitat","tags":["flying-u-page","muppetshow","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Bühnenstück / TV-Show","tone":"pointiert / doppelte Ironie / formell einfach","theme":"Mini-Theaterstück","summary":"Miniatur über Alterszynismus als Lebensform – und gleichzeitig eine Liebeserklärung an das Publikum, das sich selbst kommentiert.","quote":"Früher war alles besser. - Ja, sogar die Beschwerden darüber.","modified":"2026-11-01T07:54:08+01:00"}}
 ---
-
-
 
 *(Publikum klatscht. Die Kamera schwenkt in die Loge: zwei Herren lehnen sich über das Geländer wie über den Lauf der Zeit.)*  
 

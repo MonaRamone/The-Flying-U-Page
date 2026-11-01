@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/flicker-zweifel-nach-rechts-fuer-bestaetigung/","title":"{{Flicker - Zweifel nach rechts für Bestätigung}}","tags":["flying-u-page","dating-app","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Flicker - Zweifel nach rechts für Bestätigung}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Dating","cluster":"Digital Fiction","tags":["flying-u-page","dating-app","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Digital / Social Fiction","tone":"hyperreal / dokumentarisch / absurd","summary":"Zwei algorithmisch erzeugte Selbstbilder sprechen über Authentizität – und bleiben stumm.","quote":"Zweifel nach rechts für Bestätigung.","modified":"2026-11-01T06:03:11+01:00"}}
+{"dg-publish":true,"permalink":"/flicker-zweifel-nach-rechts-fuer-bestaetigung/","title":"{{Flicker - Zweifel nach rechts für Bestätigung}}","tags":["flying-u-page","dating-app","satire","frueherwarallesbesser"],"dg-note-properties":{"title":"{{Flicker - Zweifel nach rechts für Bestätigung}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Dating","cluster":"Digital Fiction","tags":["flying-u-page","dating-app","satire","frueherwarallesbesser"],"status":"🟢 Final","progress":1,"medium":"Digital / Social Fiction","tone":"hyperreal / dokumentarisch / absurd","summary":"Zwei algorithmisch erzeugte Selbstbilder sprechen über Authentizität – und bleiben stumm.","quote":"Zweifel nach rechts für Bestätigung.","modified":"2026-11-01T07:53:07+01:00"}}
 ---
 
-
-## 📱 Profil 1: @RedpillWolf84  
+## 📱 Profil 1: @RedpillWolf91
 📍 **Unterschleißheim**  
 **Alter:** 39  
 **Beruf:** Investor / Mindset-Coach / Crypto early adopter 💸  

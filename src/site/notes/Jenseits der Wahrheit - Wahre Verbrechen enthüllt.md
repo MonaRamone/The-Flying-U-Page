@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/jenseits-der-wahrheit-wahre-verbrechen-enthuellt/","title":"{{Jenseits der Wahrheit - Wahre Verbrechen enthüllt}}","tags":["flying-u-page","true-crime","doku-parodie"],"dg-note-properties":{"title":"{{Jenseits der Wahrheit - Wahre Verbrechen enthüllt}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"TrueCrime","cluster":"Zeitgeist / Glaube","tags":["flying-u-page","true-crime","doku-parodie"],"status":"🟢 Final","progress":1,"medium":"Pseudo-Dokumentation","tone":"seriös inszeniert / absurd im Detail","summary":"Eine Rekonstruktion der kollektiven Wahnlogik – mit investigativer Stimme.","quote":"Die Beweise lagen auf der Hand. Oder, wie manche sagen würden: in der Butter.","modified":"2026-11-01T06:03:35+01:00"}}
+{"dg-publish":true,"permalink":"/jenseits-der-wahrheit-wahre-verbrechen-enthuellt/","title":"{{Jenseits der Wahrheit - Wahre Verbrechen enthüllt}}","tags":["flying-u-page","true-crime","doku-parodie"],"dg-note-properties":{"title":"{{Jenseits der Wahrheit - Wahre Verbrechen enthüllt}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"TrueCrime","cluster":"Zeitgeist / Glaube","tags":["flying-u-page","true-crime","doku-parodie"],"status":"🟢 Final","progress":1,"medium":"Pseudo-Dokumentation","tone":"seriös inszeniert / absurd im Detail","summary":"Eine Rekonstruktion der kollektiven Wahnlogik – mit investigativer Stimme.","quote":"Die Beweise lagen auf der Hand. Oder, wie manche sagen würden: in der Butter.","modified":"2026-11-01T07:53:33+01:00"}}
 ---
-
-
 
 ## Fall Akte Q: Die Wahrheit hat WLAN
 
