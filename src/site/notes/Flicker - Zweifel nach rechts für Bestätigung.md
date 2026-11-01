@@ -48,7 +48,7 @@ quote: Zweifel nach rechts für Bestätigung.
 > Wenn du weißt, was du willst, und’s nicht ändert, weil’s schwer wird – Swipe Right.  
 >
 > Ich mach Krypto, weil ich Zukunft denke, nicht Gefühle.  
-> „enn du das nicht checkst, bist du Teil vom System.  
+>Wenn du das nicht checkst, bist du Teil vom System.  
 >
 > Und ja, ich ess Fleisch.  
 > Wenn du vegan bist oder 'ne linksgrüne Katzenmutti mit Traumfänger im Fenster – gleich zweimal nach links.  
