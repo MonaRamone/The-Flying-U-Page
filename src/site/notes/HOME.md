@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-11-01T04:31:38+01:00","modified":"2026-11-01T07:01:00+01:00"}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-11-01T04:31:38+01:00","modified":"2026-11-01T07:35:23+01:00"}}
 ---
 
-**Herzlich willkommen bei "The Flying U Page"!**
+**Herzlich willkommen bei "The Flying U-Page"!**
 
 _Das Ministerium für vollkommen normale Absonderlichkeiten_
 
@@ -12,7 +12,7 @@ Hallo geehrte Besucherinnen, Besucher und sonstige Erscheinungen,
 
 hier sind Sie auf der offiziellen Website einer Institution, deren Existenz weder bestätigt noch sinnvoll bestritten werden kann.
 
-Die "Flying U Page" ist eine Art Tagebuch, in dem ganz normale Vorgänge in einer Welt, die immer mehr Erklärungen braucht, festgehalten werden.
+Die "Flying U-Page" ist eine Art Tagebuch, in dem ganz normale Vorgänge in einer Welt, die immer mehr Erklärungen braucht, festgehalten werden.
 
 Hier finden Sie kurze Geschichten, fiktive Fernsehsendungen, Podcasts, Dokumentationen, Werbebotschaften und andere Zeugnisse einer Gesellschaft, die sich selbst für ausgesprochen vernünftig halten.
 
@@ -32,7 +32,7 @@ _Interims-Beauftragter für angewandten Unsinn_
 
 ---
 
-**FORM U-404**
+**FORM U-404B**
 COMMON SENSE NOT FOUND
 
 Dieser Zustand wurde geprüft und für vollkommen normal befunden.
