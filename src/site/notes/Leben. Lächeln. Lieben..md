@@ -6,8 +6,6 @@
 format: Reality
 tags:
   - reality-show
-status: 🟢 Final
-progress: 1
 medium: Reality / Lifestyle
 tone: Überpositiv / ironisch gebrochen
 summary: Selbstoptimierung als Gebet. Zwischen Latte und Laptop entsteht das Ideal.

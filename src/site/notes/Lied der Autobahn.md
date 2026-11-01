@@ -6,8 +6,6 @@
 format: Doku
 tags:
   - doku
-status: 🟢 Final
-progress: 1
 medium: Pseudo-Naturdokumentation
 tone: zoologisch-ironisch / dokumentarisch ernst
 summary: Eine Naturdoku über Menschen, die glauben, sie seien vernünftig.

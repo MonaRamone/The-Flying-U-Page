@@ -6,8 +6,6 @@
 format: Misc
 tags:
   - muppetshow
-status: 🟢 Final
-progress: 1
 medium: Bühnenstück / TV-Show
 tone: pointiert / doppelte Ironie / formell einfach
 theme: Mini-Theaterstück

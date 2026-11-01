@@ -5,8 +5,6 @@
 format: TrueCrime
 tags:
   - true-crime
-status: 🟢 Final
-progress: 1
 medium: Pseudo-Dokumentation
 tone: seriös inszeniert / absurd im Detail
 summary: Eine Rekonstruktion der kollektiven Wahnlogik – mit investigativer Stimme.

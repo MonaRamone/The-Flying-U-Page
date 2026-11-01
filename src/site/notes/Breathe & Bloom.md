@@ -5,8 +5,6 @@
 format: Podcast
 tags:
   - podcast
-status: 🟡 Review
-progress: 0.5
 medium: Audio / Streaming
 tone: spirituell überästhetisiert / ironisch gebrochen
 summary: Ein Gespräch zwischen Klangschalen, Kaffeebecher und Kommerz.

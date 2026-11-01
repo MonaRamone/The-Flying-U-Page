@@ -6,8 +6,6 @@ format: Corporate Imagefilm
 tags:
   - corporate
   - marketing
-status: 🟡 Review
-progress: 0.7
 medium: Imagefilm / Werbung
 tone: ästhetisch steril / unheimlich ruhig
 summary: Ein Hochglanzfilm, dessen Harmonie auf subtilem Kontrollversprechen basiert.

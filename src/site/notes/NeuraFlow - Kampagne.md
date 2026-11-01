@@ -6,8 +6,6 @@ format: SocialMedia
 tags:
   - corporate
   - social-media
-status: 🟡 Review
-progress: 0.8
 medium: Werbung / Kampagne
 tone: ästhetisch steril / algorithmisch hypnotisch
 summary: Corporate Spirituality für die Scroll-Generation.

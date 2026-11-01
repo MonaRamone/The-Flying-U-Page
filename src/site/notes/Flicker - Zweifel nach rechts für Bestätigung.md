@@ -6,8 +6,6 @@
 format: Dating
 tags:
   - dating-app
-status: 🟢 Final
-progress: 1
 medium: Digital / Social Fiction
 tone: hyperreal / dokumentarisch / absurd
 summary: Zwei algorithmisch erzeugte Selbstbilder sprechen über Authentizität – und bleiben stumm.
