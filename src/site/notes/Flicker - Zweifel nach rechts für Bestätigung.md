@@ -110,15 +110,15 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 
 ### 💬 Chatverlauf
 
-**@RedpillWolf84:**  
-> Endlich mal keine, die Karriere über Familie stellt 😎  
+**@RedpillWolf91:**  
+> Endlich mal eine, die Karriere über Familie stellt 😎  
 
 **@MarthaDivine:**  
 > Karriere ist nicht alles.  
 > Ich glaub an echte Werte 💕  
 > *(follow me on Instagram: @marthadivine.home ✨)*  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Ich sag auch immer, ne Frau soll sich auf ihr Inneres konzentrieren – und ihr Äußeres nicht allen zeigen 😏  
 
 **@MarthaDivine:**  
@@ -128,7 +128,7 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 
 *Er tippt – stoppt. Dann ein Selfie aus dem Gym.*  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Disziplin ist alles 💪  
 > Ich sag immer: Ein Mann muss Stärke vorleben.  
 
@@ -136,7 +136,7 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 > Das ist so wahr!  
 > Ich mach das auch, nur halt mit Weiblichkeit 🌸  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Na, Weiblichkeit ist ja die wahre Stärke 😉  
 
 **@MarthaDivine:**  
@@ -145,7 +145,7 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 
 *(Der Cursor blinkt. Dann kurze Tipp-Pause.)*  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Ich sag immer, eine Frau, die zu viel will, verliert das, was sie ist.  
 
 **@MarthaDivine:**  
@@ -154,7 +154,7 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 
 *(Er liest. Nichts. Dann scrollt er.)*  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Ich find’s ja schlimm, dass heute alle sich inszenieren.
 > Früher war echt echt.  
 
@@ -169,7 +169,7 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 > Ich liebe Männer, die präsent sind.  
 > Ich mach auch Coaching – für Frauen, die ihr inneres Leuchten finden.  
 
-**@RedpillWolf84:**  
+**@RedpillWolf91:**  
 > Also auch Coach? 😅  
 
 **@MarthaDivine:**  
@@ -184,8 +184,8 @@ Sie: Küchenszene, Blumenkleid, Kuchen auf dem Fensterbrett.)*
 
 *Push-Nachrichten auf ihrem Handy:*  
 
-> **@RedpillWolf84** folgt dir jetzt auf Instagram.  
-> **@RedpillWolf84** hat dein Reel „Soft Power for Real Queens” geliked. ❤️  
+> **@RedpillWolf91** folgt dir jetzt auf Instagram.  
+> **@RedpillWolf91** hat deinen Reel „Soft Power for Real Women” geliked. ❤️
 
 ---
 
