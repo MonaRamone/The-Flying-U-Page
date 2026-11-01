@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/the-flying-u-page/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:41:58+01:00"}}
 ---
 
-# Herzlich willkommen bei "The Flying U-Page"!
+## Herzlich willkommen bei "The Flying U-Page"!
 
-## _Das Ministerium für vollkommen normale Absonderlichkeiten_
+### _Das Ministerium für vollkommen normale Absonderlichkeiten_
 
 ---
 
