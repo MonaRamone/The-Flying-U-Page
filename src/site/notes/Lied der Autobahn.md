@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/lied-der-autobahn/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:22:09+01:00"}}
 ---
 
-title: "Lied der Autobahn"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
+
 format: Doku
-cluster: Zeitgeist / Habitat
 tags:
   - doku
 status: 🟢 Final

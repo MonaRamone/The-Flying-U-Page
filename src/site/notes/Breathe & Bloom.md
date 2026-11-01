@@ -2,13 +2,7 @@
 {"dg-publish":true,"permalink":"/breathe-and-bloom/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:19:17+01:00"}}
 ---
 
-title: "Breathe & Bloom"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
 format: Podcast
-cluster: Digital Fiction
 tags:
   - podcast
 status: 🟡 Review

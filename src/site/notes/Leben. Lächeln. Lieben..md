@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/leben-laecheln-lieben/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:22:08+01:00"}}
 ---
 
-title: "Leben. Lächeln. Lieben."
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
+
 format: Reality
-cluster: Modern Life
 tags:
   - reality-show
 status: 🟢 Final

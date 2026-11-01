@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/meet-the-crankies/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:22:30+01:00"}}
 ---
 
-title: "Meet The Crankies"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
+
 format: Misc
-cluster: Zeitgeist / Habitat
 tags:
   - muppetshow
 status: 🟢 Final

@@ -2,13 +2,7 @@
 {"dg-publish":true,"permalink":"/jenseits-der-wahrheit-wahre-verbrechen-enthuellt/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:20:34+01:00"}}
 ---
 
-title: "Jenseits der Wahrheit - Wahre Verbrechen enthüllt"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
 format: TrueCrime
-cluster: Zeitgeist / Glaube
 tags:
   - true-crime
 status: 🟢 Final

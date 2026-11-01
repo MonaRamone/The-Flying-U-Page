@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/neura-flow-fa-qs/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:26:09+01:00"}}
 ---
 
-title: NeuraFlow - FAQs
-created:
-  "{ date:2025-12-04 }":
-updateted:
-  "{ date:2025-12-04 }":
-  
+  #corporate #marketing 
 ---
 
 

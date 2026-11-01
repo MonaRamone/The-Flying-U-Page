@@ -2,15 +2,10 @@
 {"dg-publish":true,"permalink":"/flicker-zweifel-nach-rechts-fuer-bestaetigung/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:37:27+01:00"}}
 ---
 
-title: "Flicker - Zweifel nach rechts für Bestätigung"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
+
 format: Dating
-cluster: Digital Fiction
 tags:
-  - dating-ap
+  - dating-app
 status: 🟢 Final
 progress: 1
 medium: Digital / Social Fiction

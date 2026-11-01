@@ -2,13 +2,7 @@
 {"dg-publish":true,"permalink":"/neura-flow-kampagne/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:26:20+01:00"}}
 ---
 
-title: "NeuraFlow - Kampagne"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
 format: SocialMedia
-cluster: Digital Fiction
 tags:
   - corporate
   - social-media
