@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/breathe-and-bloom/","title":"{{Breathe & Bloom}}","tags":["flying-u-page","podcast","satire"],"dg-note-properties":{"title":"{{Breathe & Bloom}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Podcast","cluster":"Digital Fiction","tags":["flying-u-page","podcast","satire"],"status":"🟡 Review","progress":0.5,"medium":"Audio / Streaming","tone":"spirituell überästhetisiert / ironisch gebrochen","summary":"Ein Gespräch zwischen Klangschalen, Kaffeebecher und Kommerz.","quote":"So powerful. Ich fühl das total im Solarplexus.","modified":"2026-11-01T07:53:17+01:00"}}
+{"dg-publish":true,"permalink":"/breathe-and-bloom/","title":"{{Breathe & Bloom}}","tags":["flying-u-page","podcast","satire"],"dg-note-properties":{"title":"{{Breathe & Bloom}}","created":{"{ date:2025-12-04 }":null},"updated":{"{ date:2025-12-04 }":null},"format":"Podcast","cluster":"Digital Fiction","tags":["flying-u-page","podcast","satire"],"status":"🟡 Review","progress":0.5,"medium":"Audio / Streaming","tone":"spirituell überästhetisiert / ironisch gebrochen","summary":"Ein Gespräch zwischen Klangschalen, Kaffeebecher und Kommerz.","quote":"So powerful. Ich fühl das total im Solarplexus.","modified":"2026-11-01T15:22:06+01:00"}}
 ---
+
 
 # 🌸 Episode 108: Manifest Your Abyss 🌸
 
@@ -57,7 +58,7 @@ Sanftes Lo-Fi plätschert im Hintergrund.*
 
 **HOST:**  
 > „Sag mal, Freddy – darf ich Freddy sagen? – du hast ja gesagt, Gott ist tot.  
-> Wie hat dich das so gefühlt?”
+> Wie hat dich das so ange,gefühlt?”
 
 **NIETZSCHE:**  
 > „Wie Skorbut.”
