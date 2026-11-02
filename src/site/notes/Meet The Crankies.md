@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meet-the-crankies/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:22:30+01:00"}}
+{"dg-publish":true,"permalink":"/meet-the-crankies/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-02T03:10:20+01:00"}}
 ---
 
 *(Publikum klatscht. Die Kamera schwenkt in die Loge: zwei Herren lehnen sich über das Geländer wie über den Lauf der Zeit.)*  
@@ -16,7 +16,7 @@ Früher hieß das Peinlichkeit mit Beleuchtung.
 Mein lieber Herr Gesangsverein, das ist krass!  
 
 **WALLDORF:**  
-Ja. Und ganz ohne Boden hält sich' s länger.  
+Ja. Und ganz ohne Boden hält sich's länger.  
 
 *(Kurze Pause. Beide nicken ernst.)*  
 
@@ -30,7 +30,7 @@ Die Jugend von heute, Walldorf…
 Wir übrigens auch nicht.  
 
 **WALLDORF:**  
-Zum Glück merkt' s keiner.  
+Zum Glück merkt's keiner.  
 
 *(Lachen. Ein paar leere Huster aus dem Publikum.)*  
 

@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-flying-u-page/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:41:58+01:00"}}
+{"dg-publish":true,"permalink":"/the-flying-u-page/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-02T04:01:46+01:00"}}
 ---
 
 ## Herzlich willkommen bei The Flying U-Page!
-
-### _Das Ministerium für vollkommen normale Absonderlichkeiten_
-
----
-
+![](/img/user/RECOURCES/Flying-U-Page.png)
 Hallo geehrte Besucherinnen, Besucher und sonstige Erscheinungen,
 
 hier sind Sie auf der offiziellen Website einer Institution, deren Existenz weder bestätigt noch sinnvoll bestritten werden kann.
@@ -28,10 +24,3 @@ Wir wünschen Ihnen einen angenehmen Aufenthalt.
 
 i. A. Frank N. Weenie
 _Interims-Beauftragter für angewandten Unsinn_
-
----
-
-### FORM U-404 B
-COMMON SENSE NOT FOUND
-
-_Dieser Zustand wurde geprüft und für vollkommen normal befunden._

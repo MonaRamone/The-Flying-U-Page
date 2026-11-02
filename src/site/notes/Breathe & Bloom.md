@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/breathe-and-bloom/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:19:17+01:00"}}
+{"dg-publish":true,"permalink":"/breathe-and-bloom/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-02T03:35:49+01:00"}}
 ---
 
 ## 🌸 Episode 108: Manifest Your Abyss 🌸
@@ -31,63 +31,63 @@ Bleib bis zum Ende dran – da droppt Freddy ein Zitat, das dein Mindset für im
 *Intro-Jingle. Eine tibetische Klangschale erklingt, jemand atmet demonstrativ tief durch.  
 Sanftes Lo-Fi plätschert im Hintergrund.*
 
-**HOSTIN:**  
-> „Hi, ihr wunderschönen Seelen da draußen! Willkommen zurück bei *Breathe & Bloom*, dem Podcast für eure tägliche Portion *Meaning*. Heute hab ich einen ganz besonderen Gast, einen echten Mindset-Rebel. Philosoph. Visionär. Vibes-Guru… Freddy Nietzsche!”
+**HOSTIN:**
+> Hi, ihr wunderschönen Seelen da draußen! Willkommen zurück bei *Breathe & Bloom*, dem Podcast für eure tägliche Portion *Meaning*. Heute hab ich einen ganz besonderen Gast, einen echten Mindset-Rebel. Philosoph. Visionär. Vibes-Guru… Freddy Nietzsche!
 
 **NIETZSCHE:**  
-> „Ich bin tot.”
+> Ich bin tot.
 
-**HOSTIN (lacht):**  
-> „Haha, *same!* Spiritually, I mean! Wir alle müssen erst sterben, um zu leben, oder? So deep!”
+**HOSTIN (lacht):**
+> Haha, *same!* spiritually, I mean! Wir alle müssen erst sterben, um zu leben, oder? So deep!
 
 **NIETZSCHE:**  
-> „Nein. Ich meinte es wörtlich.”
+> Nein. Ich meinte es wörtlich.
 
 **HOSTIN:**  
-> „Oh mein Gott, so powerful! Ich liebe es, wie du sofort deine Wahrheit sprichst!”
+> Oh mein Gott, so powerful! Ich liebe es, wie du sofort deine Wahrheit sprichst!
 
 *Klangschale. Nietzsche schaut sie an, als würde er die Menschheit erneut aufgeben.*
 
 **HOSTIN:**  
-> „Sag mal, Freddy – ich darf doch Freddy sagen? – du hast ja gesagt, Gott ist tot. Wie hat sich das so angefühlt?”
+> Sag mal, Freddy – ich darf doch Freddy sagen? – du hast ja gesagt, Gott ist tot. Wie hat sich das so angefühlt?
 
 **NIETZSCHE:**  
-> „Wie Skorbut.”
+> Wie Skorbut.
 
 **HOSTIN:**  
-> „Das ist wunderschön! Skorbut ist ja im Prinzip nur dein Körper, der versucht, dich zu entgiften. Detox auf Zellebene!”
+> Das ist wunderschön! Skorbut ist ja im Prinzip nur dein Körper, der versucht, dich zu entgiften. Detox auf Zellebene!
 
 **NIETZSCHE:**  
-> „Wenn ich das höre, wünschte ich mir, Gott wäre noch einmal gestorben.”
+> Wenn ich das höre, wünschte ich mir, Gott wäre noch einmal gestorben.
 
 **HOSTIN:**  
-> „Ich liebe deinen Humor, so dark! Wir sagen hier ja immer: *turn your pain into power!*”
+> Ich liebe deinen Humor, so dark! Wir sagen hier ja immer: *turn your pain into power!*
 
 **NIETZSCHE:**  
-> „Schmerz ist nicht Kraft. Schmerz ist Wahrheit.”
+> Schmerz ist nicht Kraft. Schmerz ist Wahrheit.
 
 **HOSTIN:**  
-> „Wow. Schreib ich mir sofort auf!  
-> Ihr Lieben, merkt euch das: *Pain is truth!* Und truth is, like, the ultimate vibe, oder?”  
+> Wow. Schreib ich mir sofort auf!  
+> Ihr Lieben, merkt euch das: *Pain is truth!* Und truth is, like, the ultimate vibe, oder?
 
 *Hintergrundmusik mit Donnergeräusch. Nietzsche seufzt hörbar.*
 
 **HOSTIN:**  
-> „Ich sag ja immer, wir manifestieren, was wir sind. Also, was manifestierst du so, Freddy?”
+> Ich sag ja immer, wir manifestieren, was wir sind. Also, was manifestierst du so, Freddy?
 
 **NIETZSCHE:**  
-> „Migräne.”
+> Migräne.
 
 *Kurze Pause. Die Hostin nickt, als hätte sie gerade die Erleuchtung gefunden.*
 
 **HOSTIN:**  
-> „Das ist sooo relatable!”
+> Das ist sooo relatable!
 
 **NIETZSCHE:**  
-> „Ich sah einst in die Leere, und sie starrte zurück. Ihr aber nennt die Leere jetzt Selfcare.
+> Ich sah einst in die Leere, und sie starrte zurück. Ihr aber nennt die Leere jetzt Selfcare.
 
 **HOSTIN:**  
-> „Oh mein Gott, das ist so… meta! So *Black Mirror*! Ich liebe’s!”  
+> Oh mein Gott, das ist so… meta! So *Black Mirror*! Ich liebe’s!
 
 *Klangschale. Leises Nachhallen, als würde sie sich selbst rezitieren.*  
 
@@ -97,17 +97,17 @@ Sanftes Lo-Fi plätschert im Hintergrund.*
 *Werbemusik blendet ein, warm und belanglos.*
 
 **HOSTIN:**  
-> „Kurze Werbung, ihr Lieben: Diese Folge wird präsentiert von **Übermensch™ Mineral Balance Elixir** – für mehr Alignment zwischen Körper, Geist und Chakren!”
+> Kurze Werbung, ihr Lieben: Diese Folge wird präsentiert von **Übermensch™ Mineral Balance Elixir** – für mehr Alignment zwischen Körper, Geist und Chakren!
 
 *Nietzsche schaut direkt in die Kamera. Sein Blick ist müde, aber nicht traurig.*
 
-**HOSTIN:**  
-> „Ihr habt den Übermenschen zu einem Getränk gemacht.”
+**NIETZSCHE:**  
+> Ihr habt den Übermenschen zu einem Getränk gemacht.
 
 *Kurze Stille. Kein Lachen. Kein Applaus.*
 
 **HOSTIN (leicht nervös):**  
-> „Haha… so deep.”  
+> Haha… so deep.
 
 *Ein letztes Gong-Geräusch. Das Outro
 Hashtag blendet ein: [#ExistenzGlowUp](http://localhost/#ExistenzGlowUp)*  
@@ -122,28 +122,28 @@ Hashtag blendet ein: [#ExistenzGlowUp](http://localhost/#ExistenzGlowUp)*
 Eine Frau gießt glitzerndes Wasser in ein Glas.*
 
 **SPRECHERIN (die Stimme, die alles verkaufen könnte):**  
-> „Manchmal braucht es nur einen Schluck, um das Universum zu spüren.”
+> Manchmal braucht es nur einen Schluck, um das Universum zu spüren.
 
 *Chorus aus engelsgleichen Stimmen: „Übermensch…”*
 
 **SPRECHERIN:**  
-> „Mit **Übermensch™ Mineral Balance Elixir** bringst du deinen Geist in Schwingung und deine Zellen in Alignment. Angereichert mit adaptogenen Kräutern, quantenresonanter Struktur und einem Hauch von transzendentaler Erleuchtung.”
+> Mit **Übermensch™ Mineral Balance Elixir** bringst du deinen Geist in Schwingung und deine Zellen in Alignment. Angereichert mit adaptogenen Kräutern, quantenresonanter Struktur und einem Hauch von transzendentaler Erleuchtung.
 
 *Sanftes Gluckern, als das Getränk eingeschenkt wird.*
 
 **SPRECHERIN (flüsternd):**  
-> „Weil Sinn nicht gefunden, sondern getrunken wird.”
+> Weil Sinn nicht gefunden, sondern getrunken wird.
 
-*Kurzer Beat-Drop – sphärischer Bass, sphinxhafte Stimme murmelt: „Hydrate your higher self.”*
+*Kurzer Beat-Drop, sphärischer Bass, sphinxhafte Stimme murmelt: „Hydrate your higher self.”*
 
 **SPRECHERIN:**  
-> „Erhältlich in den Sorten *Void Berry*, *Eternal Citrus* und *Vanilla Absurdum.*  
-> [#ÜbermenschElixir](http://localhost/#%C3%9CbermenschElixir) [#DrinkYourDestiny](http://localhost/#DrinkYourDestiny)”
+> Erhältlich in den Sorten *Void Berry*, *Eternal Citrus* und *Vanilla Absurdum.*  
+> [#ÜbermenschElixir](http://localhost/#%C3%9CbermenschElixir) [#DrinkYourDestiny](http://localhost/#DrinkYourDestiny)
 
 *Fade out. Dann, fast unhörbar, Nietzsches Stimme aus dem Off:*
 
 **NIETZSCHE (Off):**  
-> „Ihr habt mich potenziert.”
+> Ihr habt mich potenziert.
 
 ---
 ### KOMMENTARE (Feed)
