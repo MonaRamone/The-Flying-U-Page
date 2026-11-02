@@ -2,17 +2,6 @@
 {"dg-publish":true,"permalink":"/meet-the-crankies/","dg-note-properties":{"created":"2026-11-01T16:10:31+01:00","modified":"2026-11-01T16:22:30+01:00"}}
 ---
 
-
-format: Misc
-tags:
-  - muppetshow
-medium: Bühnenstück / TV-Show
-tone: pointiert / doppelte Ironie / formell einfach
-theme: Mini-Theaterstück
-summary: Miniatur über Alterszynismus als Lebensform – und gleichzeitig eine Liebeserklärung an das Publikum, das sich selbst kommentiert.
-quote: Früher war alles besser. - Ja, sogar die Beschwerden darüber.
-
----
 *(Publikum klatscht. Die Kamera schwenkt in die Loge: zwei Herren lehnen sich über das Geländer wie über den Lauf der Zeit.)*  
 
 **SATTLER:**  
